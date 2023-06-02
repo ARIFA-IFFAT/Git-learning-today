@@ -1,1 +1,1 @@
-utility functions for version five
+utility functions for version 6
